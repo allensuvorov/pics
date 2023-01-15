@@ -28,7 +28,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	pb "jobsearch/companies/tages/projects/pics/helloworld"
+	// pb "jobsearch/companies/tages/projects/pics/helloworld"
+	pb "github.com/allensuvorov/pics/helloworld"
 )
 
 var (

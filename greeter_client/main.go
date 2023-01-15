@@ -28,7 +28,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	pb "jobsearch/companies/tages/projects/pics/helloworld"
+	// pb "jobsearch/companies/tages/projects/pics/helloworld"
+	pb "github.com/allensuvorov/pics/helloworld"
 )
 
 const (

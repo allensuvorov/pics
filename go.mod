@@ -1,4 +1,4 @@
-module jobsearch/companies/tages/projects/pics
+module github.com/allensuvorov/pics
 
 go 1.19
 
